@@ -47,7 +47,7 @@ Cette phase a servi à :
 
 Cette phase est à l'origine du résultat de référence.
 
-### Phase 2
+### Phase 2 (En cours)
 
 Une deuxième phase est prévue pour reprendre le projet en imitant au plus près la démarche du concours. L'idée est de reconstruire une évaluation interne réaliste à partir d'un split temporel (périodes de transaction) sur la donnée d'entraînement :
 
@@ -63,7 +63,7 @@ Les notebooks attendus pour cette suite sont :
 
 L'objectif de cette itération est d'intégrer les aspects manquants lors de la première phase, en particulier l'analyse des comptes et des relations entre transactions, afin d'évaluer plus proprement le gain réel apporté par ces nouvelles variables.
 
-## Organisation finale du dépôt
+## Organisation finale attendue
 
 ```text
 ├── README.md                      # Présentation du projet, du contexte concours et de la méthodologie
