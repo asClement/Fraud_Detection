@@ -24,13 +24,12 @@ Le fichier `.gitignore` du projet est configuré pour exclure les CSV, ainsi que
 
 Téléchargez les fichiers depuis la page officielle de la compétition, dans la section dédiée aux données.
 
-Si vous travaillez depuis une plateforme de concours, la procédure habituelle est la suivante :
+Les données proviennent de la compétition officielle **DATATOUR 2026** organisée par **Data Afrique Hub**. 
 
-1. Ouvrir la page du concours.
-2. Aller dans l'onglet des données.
-3. Accepter les éventuelles conditions d'utilisation.
-4. Télécharger les fichiers fournis par l'organisation.
-5. Placer les CSV à la racine du projet ou dans le répertoire attendu par les notebooks.
+Pour y accéder :
+1. Connectez-vous à votre espace participant sur la plateforme officielle de **Data Afrique Hub** (Créez-en un si vous n'en disposez pas). Lien de connection : [competition.dataafriquehub.org/login](https://competition.dataafriquehub.org/login)
+2. Accédez à la section dédiée aux compétitions et sélectionnez le projet **DATATOUR 2026**.
+3. Téléchargez les fichiers de transactions mis à disposition pour le volet **Données**.
 
 ## Vérification locale
 
