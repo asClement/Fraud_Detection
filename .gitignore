@@ -11,3 +11,6 @@ wheels/
 
 #Github .gitignore
 *.csv
+
+#utils folder
+utils/
